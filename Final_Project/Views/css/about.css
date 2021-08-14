@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(227, 227, 235);
+}
+.about{
+text-align: center;
+width: 60%;
+margin: 0 auto;
+font-size: 20px;
+}
+.about a{
+    text-decoration: none;
+    color: rgb(34, 32, 30);
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border: 1px solid black;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
